@@ -1,6 +1,8 @@
 # IT Interview
 
 ### [阅读地址](https://ityouknow.gitbooks.io/it-interview)
+### [Github托管地址](https://github.com/ityouknow/it-interview)
+
 
 准备找时间整理一下IT技术栈，大概分几块：
 
@@ -12,9 +14,9 @@
 
 ### 如何参与
 
-* 如果发现不通顺或者有歧义的地方, 可以在评论里指出来, 我们会及时改正的.
 
-* [Github托管地址](https://github.com/ityouknow/it-interview)
+
+
 
 * 大家如果有想法可以一起参与，会开放权限给每一个加入的伙伴 ，请提前邮箱联系 ityouknow@126.com
 
